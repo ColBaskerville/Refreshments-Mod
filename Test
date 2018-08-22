@@ -1,0 +1,6 @@
+package com.colbaskerville.refreshmentsmod
+
+public class Main
+{
+  public static CreativeTabs refreshmentblockstab = new RefreshmentBlocksTab("refreshmentblockstab");
+}
